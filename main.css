@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+}
+header {
+  background-color: #6200EA;
+  height: 80px;
+}
+.btn {
+  display: inline-block;
+  text-decoration: none;
+  font: normal normal bold 12px/15px Montserrat;
+  text-align: center;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2.4px;
+  border-radius: 24px;
+  opacity: 1;
+  vertical-align: middle;
+  color: #6200EA;
+  background-color: white;
+  margin-left: 245px;
+  margin-top: 0px;
+  width: 160px;
+  height: 40px;
+  padding: 33px,
+}
+.logo {
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
