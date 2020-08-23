@@ -6,17 +6,15 @@ header {
   height: 80px;
 }
 .header-content {
-  display: table;
+  display:  table;;
   vertical-align: middle;
   margin-left: 245px;
   margin-top: 0px;
-  width: 160px;
-  height: 40px;
-  padding: 10px;
+  padding: 33px;
   
 }
 .btn {
-
+  display: inline-block
   text-decoration: none;
   font: normal normal bold 12px/15px Montserrat;
   text-align: center;
@@ -29,14 +27,7 @@ header {
   background-color: white;
   text-align: center;
   
- 
-  }
-.logo {
-
-
-
 }
-
 
 
 
